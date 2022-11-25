@@ -1,0 +1,16 @@
+Front Controller - Kernel.php
+
+Взаимодействует с класссами:
+
+PhpFileLoader;
+ContainerBuilder;
+FileLocator;
+ControllerResolver;
+ArgumentResolver;
+Request;
+Response;
+Session\Session;
+ResourceNotFoundException;
+UrlMatcher;
+RequestContext;
+RouteCollection.
